@@ -1,3 +1,5 @@
+## Welcome
+
 This repository is to showcase my role in the application of Deep Learning to a tricky real-world problem: beating the Texas Electricity grid's day-ahead predictions for their own prices.
 
 This was a final project for CS 294-36, Deep Time Series Learning, taught by Francois Belletti https://github.com/bellettif. Teammates included PhD Candidates Brian Kilberg & Pedro Ivo Bastos Hespanhol, masters student Nicolas Mon, and undergraduate Liam Purvis (myself). 
